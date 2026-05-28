@@ -1,0 +1,31 @@
+{
+    "greeting": [
+        "hi", "hello", "hey", "good morning", "how are you",
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "hi there",
+        "hello there",
+        "hey buddy",
+        "hi team",
+        "hello sir",
+        "hello madam",
+        "good morning sir",
+        "good evening madam",
+        "namaste",
+        "namaskar",
+        "How are you",
+        "hi how are you",
+        "hello how can you help me",
+        "hey I need some help",
+        "hi can you assist me",
+        "hello I have a question"
+    ],
+    "foul_language": [
+        "you idiot", "stupid system", "this is bullshit", "you moron"
+    ]
+}
+        
