@@ -1,0 +1,14 @@
+[project]
+name = "query-classifier"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.136.3",
+    "numpy>=2.4.6",
+    "pydantic-settings>=2.14.1",
+    "sentence-transformers>=5.5.1",
+    "structlog>=25.5.0",
+    "uvicorn>=0.48.0",
+]
